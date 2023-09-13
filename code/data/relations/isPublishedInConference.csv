@@ -1,0 +1,940 @@
+paper_id;conference_name;edition;city;year
+200;Three-Dimensional Imaging, Interaction, and Measurement;5;Dubai;2027
+201;Discrete Mathematics in the Schools;1;Paris;2013
+202;Language Engineering Conference;5;Paris;2015
+205;Information Visualization;2;Tokyo;2012
+211;Coding Theory and Applications;2;Los Angeles;2018
+212;Complexity of Constraints;1;Chicago;2012
+214;Computational Methods for SNPs and Haplotype Inference;2;Moscow;2020
+215;Computational Methods for SNPs and Haplotype Inference;2;Moscow;2020
+219;Ershov Informatics Conference;1;Paris;2010
+220;Plan, Activity, and Intent Recognition;1;Moscow;2012
+223;Mathematical Methods Of Analysis Of Biopolymer Sequences;3;Singapore;2012
+225;Coding Theory and Applications;5;Los Angeles;2028
+229;Dance Notations and Robot Motion;1;Chicago;2010
+230;Communication in Multiagent Systems;4;Chicago;2026
+231;Caring Machines;5;Chicago;2026
+233;Plan, Activity, and Intent Recognition;5;Chicago;2022
+234;Mathematical Methods Of Analysis Of Biopolymer Sequences;4;Singapore;2015
+235;Coding Theory and Applications;2;Los Angeles;2018
+236;Theories of Programming and Formal Methods;3;Paris;2010
+237;Communication in Multiagent Systems;2;Barcelona;2020
+238;Caring Machines;3;Chicago;2016
+239;Plan, Activity, and Intent Recognition;1;Moscow;2012
+241;Mathematical Methods Of Analysis Of Biopolymer Sequences;2;Dubai;2011
+243;Computational Methods for SNPs and Haplotype Inference;1;Chicago;2015
+245;TPDL Workshops;2;Dubai;2018
+246;ACM National Conference;2;Tokyo;2017
+252;Plan, Activity, and Intent Recognition;1;Moscow;2012
+253;Dance Notations and Robot Motion;1;Chicago;2010
+254;Coding Theory and Applications;5;Los Angeles;2028
+258;Webmedia;4;Barcelona;2023
+260;Discrete Mathematics in the Schools;4;Tokyo;2022
+263;Dance Notations and Robot Motion;5;Paris;2019
+264;Web Application Security;2;Barcelona;2013
+266;Discrete Mathematics in the Schools;3;Moscow;2022
+267;Discrete Mathematics in the Schools;2;Singapore;2017
+268;Semantic Grid;4;New York;2019
+270;Dance Notations and Robot Motion;3;Moscow;2015
+272;Dance Notations and Robot Motion;4;Barcelona;2018
+274;Theories of Programming and Formal Methods;4;Paris;2013
+275;Three-Dimensional Imaging, Interaction, and Measurement;5;Dubai;2027
+276;Computational Methods for SNPs and Haplotype Inference;1;Chicago;2015
+280;TPDL Workshops;4;London;2023
+282;Ershov Informatics Conference;2;Chicago;2014
+283;Language Engineering Conference;5;Paris;2015
+284;Discrete Mathematics in the Schools;3;Moscow;2022
+286;Coding Theory and Applications;1;Paris;2015
+287;Semantic Grid;5;Singapore;2020
+289;Web Application Security;1;Paris;2012
+291;Caring Machines;5;Chicago;2026
+293;Plan, Activity, and Intent Recognition;1;Moscow;2012
+294;Communication in Multiagent Systems;1;New York;2015
+297;Theories of Programming and Formal Methods;3;Paris;2010
+302;Three-Dimensional Imaging, Interaction, and Measurement;4;Chicago;2022
+303;Mathematical Methods Of Analysis Of Biopolymer Sequences;5;Paris;2019
+305;Web Application Security;2;Barcelona;2013
+306;ACM National Conference;3;New York;2018
+307;Language Engineering Conference;5;Paris;2015
+309;Coding Theory and Applications;4;Barcelona;2023
+312;ACM National Conference;4;Moscow;2021
+313;ACM National Conference;1;Moscow;2015
+314;Web Application Security;4;London;2021
+316;Theories of Programming and Formal Methods;4;Paris;2013
+318;Web Application Security;1;Paris;2012
+319;Three-Dimensional Imaging, Interaction, and Measurement;4;Chicago;2022
+323;Computational Methods for SNPs and Haplotype Inference;4;London;2022
+328;Discrete Mathematics in the Schools;2;Singapore;2017
+331;Information Visualization;2;Tokyo;2012
+332;Caring Machines;1;Moscow;2015
+335;Fault-Tolerant Distributed Computing;4;Barcelona;2023
+336;Caring Machines;3;Chicago;2016
+337;TPDL Workshops;1;Tokyo;2014
+338;Semantic Grid;3;Barcelona;2018
+339;Caring Machines;1;Moscow;2015
+342;Ershov Informatics Conference;3;Dubai;2018
+344;Webmedia;3;Los Angeles;2018
+348;Web Application Security;2;Barcelona;2013
+349;Information Visualization;1;Tokyo;2011
+350;Dance Notations and Robot Motion;3;Moscow;2015
+352;Language Engineering Conference;3;Los Angeles;2013
+353;Coding Theory and Applications;1;Paris;2015
+356;Coding Theory and Applications;3;Barcelona;2022
+357;Mathematical Methods Of Analysis Of Biopolymer Sequences;3;Singapore;2012
+358;Webmedia;3;Los Angeles;2018
+360;Dance Notations and Robot Motion;3;Moscow;2015
+361;Communication in Multiagent Systems;4;Chicago;2026
+363;Complexity of Constraints;1;Chicago;2012
+365;Web Application Security;3;Chicago;2016
+366;Fault-Tolerant Distributed Computing;2;Tokyo;2017
+371;Fault-Tolerant Distributed Computing;2;Tokyo;2017
+372;Language Engineering Conference;1;Barcelona;2010
+374;Ershov Informatics Conference;4;Tokyo;2019
+379;Web Application Security;5;London;2026
+380;Theories of Programming and Formal Methods;5;Dubai;2016
+381;Semantic Grid;3;Barcelona;2018
+385;Three-Dimensional Imaging, Interaction, and Measurement;2;Dubai;2018
+388;ACM National Conference;2;Tokyo;2017
+391;Communication in Multiagent Systems;2;Barcelona;2020
+392;TPDL Workshops;3;Dubai;2023
+393;Computational Methods for SNPs and Haplotype Inference;3;Barcelona;2020
+396;Theories of Programming and Formal Methods;1;Barcelona;2010
+397;Communication in Multiagent Systems;4;Chicago;2026
+401;Coding Theory and Applications;3;Barcelona;2022
+402;Coding Theory and Applications;1;Paris;2015
+403;Computational Methods for SNPs and Haplotype Inference;5;Los Angeles;2024
+404;ACM National Conference;1;Moscow;2015
+406;Language Engineering Conference;3;Los Angeles;2013
+408;Theories of Programming and Formal Methods;4;Paris;2013
+410;Coding Theory and Applications;2;Los Angeles;2018
+414;Information Visualization;1;Tokyo;2011
+417;Language Engineering Conference;4;New York;2015
+420;Plan, Activity, and Intent Recognition;5;Chicago;2022
+427;Information Visualization;3;Dubai;2016
+430;Dance Notations and Robot Motion;2;Singapore;2012
+431;Computational Methods for SNPs and Haplotype Inference;5;Los Angeles;2024
+432;Mathematical Methods Of Analysis Of Biopolymer Sequences;2;Dubai;2011
+437;Coding Theory and Applications;1;Paris;2015
+438;Mathematical Methods Of Analysis Of Biopolymer Sequences;3;Singapore;2012
+439;Three-Dimensional Imaging, Interaction, and Measurement;2;Dubai;2018
+440;Caring Machines;5;Chicago;2026
+441;Complexity of Constraints;4;Singapore;2025
+445;Semantic Grid;4;New York;2019
+446;Computational Methods for SNPs and Haplotype Inference;1;Chicago;2015
+451;Webmedia;4;Barcelona;2023
+452;Discrete Mathematics in the Schools;4;Tokyo;2022
+453;Three-Dimensional Imaging, Interaction, and Measurement;4;Chicago;2022
+454;Ershov Informatics Conference;4;Tokyo;2019
+456;Information Visualization;1;Tokyo;2011
+457;Computational Methods for SNPs and Haplotype Inference;2;Moscow;2020
+462;Ershov Informatics Conference;5;New York;2021
+463;Semantic Grid;5;Singapore;2020
+464;Fault-Tolerant Distributed Computing;1;Chicago;2015
+465;TPDL Workshops;3;Dubai;2023
+468;Language Engineering Conference;2;Paris;2011
+469;Plan, Activity, and Intent Recognition;4;Paris;2022
+470;Three-Dimensional Imaging, Interaction, and Measurement;4;Chicago;2022
+473;Plan, Activity, and Intent Recognition;3;Singapore;2022
+476;Plan, Activity, and Intent Recognition;5;Chicago;2022
+480;Three-Dimensional Imaging, Interaction, and Measurement;1;Barcelona;2015
+481;Dance Notations and Robot Motion;4;Barcelona;2018
+485;ACM National Conference;2;Tokyo;2017
+486;Communication in Multiagent Systems;4;Chicago;2026
+487;ACM National Conference;2;Tokyo;2017
+498;Plan, Activity, and Intent Recognition;4;Paris;2022
+499;Web Application Security;2;Barcelona;2013
+504;Coding Theory and Applications;2;Los Angeles;2018
+506;Coding Theory and Applications;3;Barcelona;2022
+508;Language Engineering Conference;1;Barcelona;2010
+509;Fault-Tolerant Distributed Computing;5;Chicago;2024
+512;TPDL Workshops;2;Dubai;2018
+514;Coding Theory and Applications;5;Los Angeles;2028
+515;Complexity of Constraints;4;Singapore;2025
+516;Caring Machines;1;Moscow;2015
+520;Fault-Tolerant Distributed Computing;4;Barcelona;2023
+522;Semantic Grid;3;Barcelona;2018
+527;TPDL Workshops;2;Dubai;2018
+536;ACM National Conference;1;Moscow;2015
+538;Coding Theory and Applications;2;Los Angeles;2018
+539;Discrete Mathematics in the Schools;2;Singapore;2017
+541;Three-Dimensional Imaging, Interaction, and Measurement;2;Dubai;2018
+545;Information Visualization;5;Paris;2020
+546;Caring Machines;2;Moscow;2016
+549;Communication in Multiagent Systems;5;Dubai;2026
+550;Ershov Informatics Conference;2;Chicago;2014
+551;Language Engineering Conference;5;Paris;2015
+554;Language Engineering Conference;4;New York;2015
+557;Fault-Tolerant Distributed Computing;1;Chicago;2015
+559;Information Visualization;5;Paris;2020
+561;Plan, Activity, and Intent Recognition;1;Moscow;2012
+563;Mathematical Methods Of Analysis Of Biopolymer Sequences;4;Singapore;2015
+566;Webmedia;2;Barcelona;2015
+567;Semantic Grid;2;Barcelona;2017
+568;Dance Notations and Robot Motion;1;Chicago;2010
+569;Caring Machines;3;Chicago;2016
+571;Mathematical Methods Of Analysis Of Biopolymer Sequences;5;Paris;2019
+573;Caring Machines;3;Chicago;2016
+577;Communication in Multiagent Systems;5;Dubai;2026
+578;Information Visualization;5;Paris;2020
+579;Ershov Informatics Conference;4;Tokyo;2019
+581;Web Application Security;5;London;2026
+583;Language Engineering Conference;3;Los Angeles;2013
+584;Discrete Mathematics in the Schools;3;Moscow;2022
+585;Semantic Grid;4;New York;2019
+586;Dance Notations and Robot Motion;4;Barcelona;2018
+594;Complexity of Constraints;5;Chicago;2027
+596;Information Visualization;4;Los Angeles;2018
+602;Dance Notations and Robot Motion;5;Paris;2019
+603;Language Engineering Conference;4;New York;2015
+604;Three-Dimensional Imaging, Interaction, and Measurement;3;London;2022
+605;Plan, Activity, and Intent Recognition;2;London;2017
+606;ACM National Conference;1;Moscow;2015
+607;Dance Notations and Robot Motion;4;Barcelona;2018
+609;Communication in Multiagent Systems;3;Chicago;2022
+612;Ershov Informatics Conference;3;Dubai;2018
+616;Caring Machines;5;Chicago;2026
+619;Plan, Activity, and Intent Recognition;2;London;2017
+621;Web Application Security;2;Barcelona;2013
+622;ACM National Conference;1;Moscow;2015
+624;Theories of Programming and Formal Methods;5;Dubai;2016
+626;Web Application Security;5;London;2026
+627;Theories of Programming and Formal Methods;5;Dubai;2016
+628;Plan, Activity, and Intent Recognition;1;Moscow;2012
+629;TPDL Workshops;5;Moscow;2026
+633;Information Visualization;3;Dubai;2016
+634;Semantic Grid;3;Barcelona;2018
+635;Theories of Programming and Formal Methods;4;Paris;2013
+638;ACM National Conference;5;Paris;2026
+640;Complexity of Constraints;4;Singapore;2025
+643;Web Application Security;4;London;2021
+644;Computational Methods for SNPs and Haplotype Inference;4;London;2022
+645;ACM National Conference;3;New York;2018
+646;Language Engineering Conference;5;Paris;2015
+649;Three-Dimensional Imaging, Interaction, and Measurement;1;Barcelona;2015
+650;Semantic Grid;3;Barcelona;2018
+654;Semantic Grid;4;New York;2019
+661;Mathematical Methods Of Analysis Of Biopolymer Sequences;1;Barcelona;2011
+665;Semantic Grid;3;Barcelona;2018
+668;Complexity of Constraints;2;Chicago;2017
+670;Communication in Multiagent Systems;4;Chicago;2026
+671;Discrete Mathematics in the Schools;3;Moscow;2022
+677;Fault-Tolerant Distributed Computing;1;Chicago;2015
+682;Communication in Multiagent Systems;5;Dubai;2026
+683;Dance Notations and Robot Motion;3;Moscow;2015
+685;Discrete Mathematics in the Schools;1;Paris;2013
+686;Complexity of Constraints;5;Chicago;2027
+688;TPDL Workshops;3;Dubai;2023
+695;Three-Dimensional Imaging, Interaction, and Measurement;2;Dubai;2018
+696;Complexity of Constraints;1;Chicago;2012
+698;Information Visualization;3;Dubai;2016
+699;Coding Theory and Applications;1;Paris;2015
+702;Semantic Grid;3;Barcelona;2018
+703;Fault-Tolerant Distributed Computing;4;Barcelona;2023
+704;Language Engineering Conference;4;New York;2015
+705;Ershov Informatics Conference;4;Tokyo;2019
+706;Three-Dimensional Imaging, Interaction, and Measurement;5;Dubai;2027
+709;ACM National Conference;1;Moscow;2015
+711;Plan, Activity, and Intent Recognition;4;Paris;2022
+714;ACM National Conference;2;Tokyo;2017
+716;Plan, Activity, and Intent Recognition;1;Moscow;2012
+720;Web Application Security;3;Chicago;2016
+721;Caring Machines;4;London;2021
+724;Theories of Programming and Formal Methods;2;Moscow;2010
+726;Three-Dimensional Imaging, Interaction, and Measurement;2;Dubai;2018
+727;Coding Theory and Applications;1;Paris;2015
+733;Discrete Mathematics in the Schools;4;Tokyo;2022
+734;TPDL Workshops;1;Tokyo;2014
+737;Complexity of Constraints;5;Chicago;2027
+741;Plan, Activity, and Intent Recognition;2;London;2017
+742;Discrete Mathematics in the Schools;3;Moscow;2022
+746;Web Application Security;1;Paris;2012
+747;ACM National Conference;3;New York;2018
+751;ACM National Conference;4;Moscow;2021
+753;Web Application Security;2;Barcelona;2013
+754;Theories of Programming and Formal Methods;1;Barcelona;2010
+755;Web Application Security;4;London;2021
+756;Webmedia;3;Los Angeles;2018
+760;Coding Theory and Applications;5;Los Angeles;2028
+761;Three-Dimensional Imaging, Interaction, and Measurement;1;Barcelona;2015
+762;Three-Dimensional Imaging, Interaction, and Measurement;3;London;2022
+765;Information Visualization;3;Dubai;2016
+768;Ershov Informatics Conference;4;Tokyo;2019
+769;Semantic Grid;5;Singapore;2020
+770;ACM National Conference;4;Moscow;2021
+771;Computational Methods for SNPs and Haplotype Inference;4;London;2022
+775;Information Visualization;4;Los Angeles;2018
+776;Coding Theory and Applications;2;Los Angeles;2018
+779;Coding Theory and Applications;4;Barcelona;2023
+780;Communication in Multiagent Systems;3;Chicago;2022
+786;Semantic Grid;3;Barcelona;2018
+789;Theories of Programming and Formal Methods;3;Paris;2010
+790;Discrete Mathematics in the Schools;2;Singapore;2017
+791;Discrete Mathematics in the Schools;1;Paris;2013
+792;Language Engineering Conference;1;Barcelona;2010
+793;Web Application Security;2;Barcelona;2013
+794;Web Application Security;5;London;2026
+798;ACM National Conference;5;Paris;2026
+799;Computational Methods for SNPs and Haplotype Inference;4;London;2022
+804;Three-Dimensional Imaging, Interaction, and Measurement;2;Dubai;2018
+806;Web Application Security;1;Paris;2012
+807;Discrete Mathematics in the Schools;1;Paris;2013
+811;Semantic Grid;2;Barcelona;2017
+812;Information Visualization;2;Tokyo;2012
+814;Information Visualization;4;Los Angeles;2018
+815;Dance Notations and Robot Motion;2;Singapore;2012
+816;Caring Machines;5;Chicago;2026
+818;Dance Notations and Robot Motion;5;Paris;2019
+819;ACM National Conference;2;Tokyo;2017
+820;Dance Notations and Robot Motion;2;Singapore;2012
+822;Plan, Activity, and Intent Recognition;2;London;2017
+826;Discrete Mathematics in the Schools;4;Tokyo;2022
+830;Ershov Informatics Conference;3;Dubai;2018
+833;Caring Machines;5;Chicago;2026
+835;Discrete Mathematics in the Schools;3;Moscow;2022
+837;Information Visualization;1;Tokyo;2011
+839;Web Application Security;5;London;2026
+840;Semantic Grid;3;Barcelona;2018
+841;ACM National Conference;5;Paris;2026
+844;Web Application Security;3;Chicago;2016
+849;Dance Notations and Robot Motion;3;Moscow;2015
+851;Information Visualization;1;Tokyo;2011
+852;Discrete Mathematics in the Schools;1;Paris;2013
+853;Ershov Informatics Conference;3;Dubai;2018
+854;Communication in Multiagent Systems;2;Barcelona;2020
+855;Webmedia;5;Chicago;2025
+857;Fault-Tolerant Distributed Computing;1;Chicago;2015
+859;Discrete Mathematics in the Schools;1;Paris;2013
+864;Plan, Activity, and Intent Recognition;4;Paris;2022
+867;Web Application Security;4;London;2021
+868;Information Visualization;1;Tokyo;2011
+869;Coding Theory and Applications;3;Barcelona;2022
+870;Fault-Tolerant Distributed Computing;1;Chicago;2015
+873;Ershov Informatics Conference;1;Paris;2010
+875;Three-Dimensional Imaging, Interaction, and Measurement;5;Dubai;2027
+876;Dance Notations and Robot Motion;3;Moscow;2015
+879;Language Engineering Conference;4;New York;2015
+880;Mathematical Methods Of Analysis Of Biopolymer Sequences;1;Barcelona;2011
+881;Webmedia;4;Barcelona;2023
+883;Language Engineering Conference;1;Barcelona;2010
+884;Webmedia;5;Chicago;2025
+885;Ershov Informatics Conference;1;Paris;2010
+886;Discrete Mathematics in the Schools;1;Paris;2013
+887;Language Engineering Conference;2;Paris;2011
+889;Information Visualization;5;Paris;2020
+890;Mathematical Methods Of Analysis Of Biopolymer Sequences;1;Barcelona;2011
+891;Language Engineering Conference;1;Barcelona;2010
+893;Fault-Tolerant Distributed Computing;5;Chicago;2024
+896;Ershov Informatics Conference;2;Chicago;2014
+899;Language Engineering Conference;2;Paris;2011
+904;Complexity of Constraints;4;Singapore;2025
+909;Discrete Mathematics in the Schools;3;Moscow;2022
+910;Plan, Activity, and Intent Recognition;5;Chicago;2022
+912;Language Engineering Conference;1;Barcelona;2010
+913;Ershov Informatics Conference;1;Paris;2010
+914;Caring Machines;2;Moscow;2016
+915;Complexity of Constraints;1;Chicago;2012
+917;Coding Theory and Applications;2;Los Angeles;2018
+918;Ershov Informatics Conference;5;New York;2021
+919;Computational Methods for SNPs and Haplotype Inference;1;Chicago;2015
+921;Computational Methods for SNPs and Haplotype Inference;5;Los Angeles;2024
+927;Plan, Activity, and Intent Recognition;3;Singapore;2022
+928;Web Application Security;4;London;2021
+930;Dance Notations and Robot Motion;5;Paris;2019
+932;Information Visualization;3;Dubai;2016
+933;Complexity of Constraints;5;Chicago;2027
+935;Language Engineering Conference;1;Barcelona;2010
+936;TPDL Workshops;1;Tokyo;2014
+938;Webmedia;4;Barcelona;2023
+939;Language Engineering Conference;5;Paris;2015
+940;Communication in Multiagent Systems;1;New York;2015
+941;Ershov Informatics Conference;5;New York;2021
+942;Computational Methods for SNPs and Haplotype Inference;4;London;2022
+948;Communication in Multiagent Systems;2;Barcelona;2020
+949;Web Application Security;2;Barcelona;2013
+955;Discrete Mathematics in the Schools;5;Los Angeles;2024
+957;ACM National Conference;3;New York;2018
+958;Information Visualization;4;Los Angeles;2018
+961;ACM National Conference;5;Paris;2026
+962;Theories of Programming and Formal Methods;1;Barcelona;2010
+963;Language Engineering Conference;5;Paris;2015
+964;Information Visualization;2;Tokyo;2012
+971;Discrete Mathematics in the Schools;1;Paris;2013
+972;Information Visualization;2;Tokyo;2012
+974;Computational Methods for SNPs and Haplotype Inference;5;Los Angeles;2024
+975;Plan, Activity, and Intent Recognition;2;London;2017
+977;Three-Dimensional Imaging, Interaction, and Measurement;3;London;2022
+978;Plan, Activity, and Intent Recognition;2;London;2017
+983;Computational Methods for SNPs and Haplotype Inference;1;Chicago;2015
+984;Three-Dimensional Imaging, Interaction, and Measurement;1;Barcelona;2015
+987;Coding Theory and Applications;5;Los Angeles;2028
+988;Information Visualization;2;Tokyo;2012
+989;Communication in Multiagent Systems;3;Chicago;2022
+997;Information Visualization;3;Dubai;2016
+998;Theories of Programming and Formal Methods;1;Barcelona;2010
+1000;Coding Theory and Applications;4;Barcelona;2023
+1002;Ershov Informatics Conference;3;Dubai;2018
+1003;Complexity of Constraints;1;Chicago;2012
+1004;Dance Notations and Robot Motion;1;Chicago;2010
+1005;Web Application Security;2;Barcelona;2013
+1007;Dance Notations and Robot Motion;4;Barcelona;2018
+1008;Semantic Grid;1;Singapore;2015
+1010;Web Application Security;3;Chicago;2016
+1011;Discrete Mathematics in the Schools;2;Singapore;2017
+1012;Language Engineering Conference;5;Paris;2015
+1014;Caring Machines;1;Moscow;2015
+1015;Semantic Grid;1;Singapore;2015
+1016;TPDL Workshops;3;Dubai;2023
+1017;Language Engineering Conference;3;Los Angeles;2013
+1019;Mathematical Methods Of Analysis Of Biopolymer Sequences;5;Paris;2019
+1022;Dance Notations and Robot Motion;5;Paris;2019
+1023;Web Application Security;3;Chicago;2016
+1024;ACM National Conference;2;Tokyo;2017
+1026;Communication in Multiagent Systems;3;Chicago;2022
+1027;Theories of Programming and Formal Methods;3;Paris;2010
+1029;Information Visualization;1;Tokyo;2011
+1030;Language Engineering Conference;5;Paris;2015
+1031;Language Engineering Conference;2;Paris;2011
+1037;Language Engineering Conference;4;New York;2015
+1042;ACM National Conference;4;Moscow;2021
+1043;Communication in Multiagent Systems;5;Dubai;2026
+1044;Plan, Activity, and Intent Recognition;5;Chicago;2022
+1046;Semantic Grid;2;Barcelona;2017
+1047;Mathematical Methods Of Analysis Of Biopolymer Sequences;2;Dubai;2011
+1049;Dance Notations and Robot Motion;3;Moscow;2015
+1050;Dance Notations and Robot Motion;4;Barcelona;2018
+1051;Semantic Grid;1;Singapore;2015
+1053;Fault-Tolerant Distributed Computing;2;Tokyo;2017
+1061;Information Visualization;2;Tokyo;2012
+1063;Coding Theory and Applications;2;Los Angeles;2018
+1067;ACM National Conference;1;Moscow;2015
+1072;Language Engineering Conference;1;Barcelona;2010
+1074;Theories of Programming and Formal Methods;3;Paris;2010
+1077;Dance Notations and Robot Motion;1;Chicago;2010
+1078;Semantic Grid;2;Barcelona;2017
+1079;Caring Machines;5;Chicago;2026
+1081;Caring Machines;2;Moscow;2016
+1082;Fault-Tolerant Distributed Computing;3;Dubai;2020
+1087;Web Application Security;2;Barcelona;2013
+1093;Information Visualization;5;Paris;2020
+1094;Mathematical Methods Of Analysis Of Biopolymer Sequences;4;Singapore;2015
+1095;Coding Theory and Applications;2;Los Angeles;2018
+1096;Computational Methods for SNPs and Haplotype Inference;3;Barcelona;2020
+1100;Webmedia;1;Paris;2015
+1101;Webmedia;4;Barcelona;2023
+1102;TPDL Workshops;1;Tokyo;2014
+1103;Mathematical Methods Of Analysis Of Biopolymer Sequences;3;Singapore;2012
+1104;ACM National Conference;4;Moscow;2021
+1105;Theories of Programming and Formal Methods;2;Moscow;2010
+1106;Discrete Mathematics in the Schools;3;Moscow;2022
+1107;Web Application Security;4;London;2021
+1108;Communication in Multiagent Systems;2;Barcelona;2020
+1109;Ershov Informatics Conference;3;Dubai;2018
+1111;Information Visualization;3;Dubai;2016
+1113;Language Engineering Conference;4;New York;2015
+1114;Caring Machines;2;Moscow;2016
+1115;Dance Notations and Robot Motion;5;Paris;2019
+1116;Ershov Informatics Conference;3;Dubai;2018
+1117;Plan, Activity, and Intent Recognition;1;Moscow;2012
+1118;TPDL Workshops;2;Dubai;2018
+1119;Dance Notations and Robot Motion;5;Paris;2019
+1120;Communication in Multiagent Systems;1;New York;2015
+1123;Discrete Mathematics in the Schools;1;Paris;2013
+1124;Three-Dimensional Imaging, Interaction, and Measurement;3;London;2022
+1125;Webmedia;3;Los Angeles;2018
+1132;Ershov Informatics Conference;1;Paris;2010
+1133;Three-Dimensional Imaging, Interaction, and Measurement;5;Dubai;2027
+1134;Coding Theory and Applications;3;Barcelona;2022
+1135;TPDL Workshops;1;Tokyo;2014
+1138;Coding Theory and Applications;5;Los Angeles;2028
+1140;Ershov Informatics Conference;1;Paris;2010
+1145;Three-Dimensional Imaging, Interaction, and Measurement;2;Dubai;2018
+1146;Semantic Grid;1;Singapore;2015
+1148;Dance Notations and Robot Motion;5;Paris;2019
+1149;Web Application Security;2;Barcelona;2013
+1152;Plan, Activity, and Intent Recognition;5;Chicago;2022
+1156;Web Application Security;1;Paris;2012
+1158;Theories of Programming and Formal Methods;1;Barcelona;2010
+1160;Complexity of Constraints;5;Chicago;2027
+1162;Mathematical Methods Of Analysis Of Biopolymer Sequences;1;Barcelona;2011
+1163;Dance Notations and Robot Motion;2;Singapore;2012
+1167;Three-Dimensional Imaging, Interaction, and Measurement;2;Dubai;2018
+1171;Semantic Grid;4;New York;2019
+1172;Dance Notations and Robot Motion;5;Paris;2019
+1175;TPDL Workshops;5;Moscow;2026
+1179;Semantic Grid;3;Barcelona;2018
+1182;Webmedia;5;Chicago;2025
+1183;Web Application Security;1;Paris;2012
+1184;Mathematical Methods Of Analysis Of Biopolymer Sequences;2;Dubai;2011
+1189;Computational Methods for SNPs and Haplotype Inference;3;Barcelona;2020
+1191;Information Visualization;5;Paris;2020
+1195;Three-Dimensional Imaging, Interaction, and Measurement;3;London;2022
+1196;Plan, Activity, and Intent Recognition;2;London;2017
+1197;Caring Machines;3;Chicago;2016
+1199;Plan, Activity, and Intent Recognition;2;London;2017
+1201;Caring Machines;5;Chicago;2026
+1209;Mathematical Methods Of Analysis Of Biopolymer Sequences;5;Paris;2019
+1210;Caring Machines;5;Chicago;2026
+1213;Ershov Informatics Conference;3;Dubai;2018
+1214;ACM National Conference;5;Paris;2026
+1216;Semantic Grid;1;Singapore;2015
+1219;Theories of Programming and Formal Methods;2;Moscow;2010
+1221;TPDL Workshops;4;London;2023
+1222;TPDL Workshops;2;Dubai;2018
+1227;Complexity of Constraints;5;Chicago;2027
+1230;Fault-Tolerant Distributed Computing;5;Chicago;2024
+1233;Theories of Programming and Formal Methods;2;Moscow;2010
+1234;Language Engineering Conference;1;Barcelona;2010
+1235;TPDL Workshops;3;Dubai;2023
+1238;Caring Machines;5;Chicago;2026
+1239;Computational Methods for SNPs and Haplotype Inference;3;Barcelona;2020
+1241;Web Application Security;5;London;2026
+1243;Three-Dimensional Imaging, Interaction, and Measurement;3;London;2022
+1244;Caring Machines;3;Chicago;2016
+1246;Ershov Informatics Conference;1;Paris;2010
+1247;Communication in Multiagent Systems;4;Chicago;2026
+1248;Three-Dimensional Imaging, Interaction, and Measurement;3;London;2022
+1249;Dance Notations and Robot Motion;4;Barcelona;2018
+1251;Information Visualization;1;Tokyo;2011
+1253;Web Application Security;3;Chicago;2016
+1254;Mathematical Methods Of Analysis Of Biopolymer Sequences;3;Singapore;2012
+1255;Web Application Security;1;Paris;2012
+1257;Caring Machines;1;Moscow;2015
+1259;ACM National Conference;1;Moscow;2015
+1263;ACM National Conference;3;New York;2018
+1265;Information Visualization;5;Paris;2020
+1267;Ershov Informatics Conference;5;New York;2021
+1268;Discrete Mathematics in the Schools;4;Tokyo;2022
+1271;Fault-Tolerant Distributed Computing;5;Chicago;2024
+1275;Theories of Programming and Formal Methods;4;Paris;2013
+1277;Semantic Grid;3;Barcelona;2018
+1279;Communication in Multiagent Systems;4;Chicago;2026
+1280;Webmedia;3;Los Angeles;2018
+1287;Mathematical Methods Of Analysis Of Biopolymer Sequences;5;Paris;2019
+1289;Coding Theory and Applications;2;Los Angeles;2018
+1295;Coding Theory and Applications;5;Los Angeles;2028
+1296;Webmedia;1;Paris;2015
+1297;Fault-Tolerant Distributed Computing;5;Chicago;2024
+1298;Information Visualization;3;Dubai;2016
+1299;Coding Theory and Applications;1;Paris;2015
+1302;ACM National Conference;1;Moscow;2015
+1303;Webmedia;5;Chicago;2025
+1306;Dance Notations and Robot Motion;1;Chicago;2010
+1307;Theories of Programming and Formal Methods;3;Paris;2010
+1308;Coding Theory and Applications;4;Barcelona;2023
+1309;Semantic Grid;4;New York;2019
+1312;Discrete Mathematics in the Schools;4;Tokyo;2022
+1314;Ershov Informatics Conference;3;Dubai;2018
+1315;Webmedia;2;Barcelona;2015
+1318;Theories of Programming and Formal Methods;3;Paris;2010
+1321;Theories of Programming and Formal Methods;4;Paris;2013
+1323;Language Engineering Conference;2;Paris;2011
+1324;TPDL Workshops;2;Dubai;2018
+1326;Complexity of Constraints;3;Dubai;2021
+1328;Communication in Multiagent Systems;1;New York;2015
+1331;Theories of Programming and Formal Methods;1;Barcelona;2010
+1333;Webmedia;1;Paris;2015
+1336;Coding Theory and Applications;1;Paris;2015
+1338;Plan, Activity, and Intent Recognition;5;Chicago;2022
+1339;Information Visualization;2;Tokyo;2012
+1342;Discrete Mathematics in the Schools;5;Los Angeles;2024
+1344;Dance Notations and Robot Motion;4;Barcelona;2018
+1348;Discrete Mathematics in the Schools;3;Moscow;2022
+1349;Dance Notations and Robot Motion;4;Barcelona;2018
+1350;Communication in Multiagent Systems;5;Dubai;2026
+1351;Fault-Tolerant Distributed Computing;3;Dubai;2020
+1353;Coding Theory and Applications;4;Barcelona;2023
+1358;TPDL Workshops;3;Dubai;2023
+1360;Language Engineering Conference;4;New York;2015
+1364;Three-Dimensional Imaging, Interaction, and Measurement;2;Dubai;2018
+1366;Semantic Grid;2;Barcelona;2017
+1367;Mathematical Methods Of Analysis Of Biopolymer Sequences;4;Singapore;2015
+1369;Mathematical Methods Of Analysis Of Biopolymer Sequences;1;Barcelona;2011
+1370;Information Visualization;5;Paris;2020
+1372;Computational Methods for SNPs and Haplotype Inference;2;Moscow;2020
+1377;Caring Machines;4;London;2021
+1378;Ershov Informatics Conference;3;Dubai;2018
+1381;ACM National Conference;5;Paris;2026
+1383;Web Application Security;2;Barcelona;2013
+1387;Three-Dimensional Imaging, Interaction, and Measurement;5;Dubai;2027
+1388;Mathematical Methods Of Analysis Of Biopolymer Sequences;3;Singapore;2012
+1394;Web Application Security;4;London;2021
+1395;Information Visualization;1;Tokyo;2011
+1399;Dance Notations and Robot Motion;4;Barcelona;2018
+1402;Discrete Mathematics in the Schools;3;Moscow;2022
+1403;Coding Theory and Applications;4;Barcelona;2023
+1407;ACM National Conference;4;Moscow;2021
+1411;Semantic Grid;2;Barcelona;2017
+1412;TPDL Workshops;1;Tokyo;2014
+1415;Information Visualization;1;Tokyo;2011
+1416;Computational Methods for SNPs and Haplotype Inference;4;London;2022
+1417;Communication in Multiagent Systems;2;Barcelona;2020
+1420;Webmedia;3;Los Angeles;2018
+1422;Theories of Programming and Formal Methods;2;Moscow;2010
+1423;Theories of Programming and Formal Methods;3;Paris;2010
+1425;Plan, Activity, and Intent Recognition;4;Paris;2022
+1426;Semantic Grid;3;Barcelona;2018
+1427;ACM National Conference;1;Moscow;2015
+1429;Coding Theory and Applications;1;Paris;2015
+1432;Coding Theory and Applications;5;Los Angeles;2028
+1434;Caring Machines;1;Moscow;2015
+1435;Fault-Tolerant Distributed Computing;4;Barcelona;2023
+1443;Theories of Programming and Formal Methods;1;Barcelona;2010
+1446;Dance Notations and Robot Motion;2;Singapore;2012
+1447;ACM National Conference;2;Tokyo;2017
+1449;Fault-Tolerant Distributed Computing;3;Dubai;2020
+1453;Ershov Informatics Conference;1;Paris;2010
+1454;Caring Machines;4;London;2021
+1456;Complexity of Constraints;2;Chicago;2017
+1457;Mathematical Methods Of Analysis Of Biopolymer Sequences;2;Dubai;2011
+1458;Three-Dimensional Imaging, Interaction, and Measurement;2;Dubai;2018
+1459;TPDL Workshops;4;London;2023
+1463;Communication in Multiagent Systems;5;Dubai;2026
+1464;Ershov Informatics Conference;2;Chicago;2014
+1468;Language Engineering Conference;4;New York;2015
+1469;Ershov Informatics Conference;1;Paris;2010
+1470;Discrete Mathematics in the Schools;2;Singapore;2017
+1471;Ershov Informatics Conference;1;Paris;2010
+1475;Theories of Programming and Formal Methods;4;Paris;2013
+1477;Three-Dimensional Imaging, Interaction, and Measurement;1;Barcelona;2015
+1479;Plan, Activity, and Intent Recognition;2;London;2017
+1480;Complexity of Constraints;1;Chicago;2012
+1485;Web Application Security;5;London;2026
+1489;Plan, Activity, and Intent Recognition;4;Paris;2022
+1491;Discrete Mathematics in the Schools;2;Singapore;2017
+1492;Mathematical Methods Of Analysis Of Biopolymer Sequences;3;Singapore;2012
+1494;Mathematical Methods Of Analysis Of Biopolymer Sequences;4;Singapore;2015
+1495;Semantic Grid;1;Singapore;2015
+1496;Semantic Grid;4;New York;2019
+1499;Computational Methods for SNPs and Haplotype Inference;3;Barcelona;2020
+1500;Theories of Programming and Formal Methods;4;Paris;2013
+1505;Language Engineering Conference;1;Barcelona;2010
+1506;Computational Methods for SNPs and Haplotype Inference;4;London;2022
+1510;Theories of Programming and Formal Methods;4;Paris;2013
+1511;Fault-Tolerant Distributed Computing;2;Tokyo;2017
+1512;Computational Methods for SNPs and Haplotype Inference;3;Barcelona;2020
+1515;Language Engineering Conference;2;Paris;2011
+1517;Computational Methods for SNPs and Haplotype Inference;4;London;2022
+1520;Computational Methods for SNPs and Haplotype Inference;1;Chicago;2015
+1521;Computational Methods for SNPs and Haplotype Inference;2;Moscow;2020
+1523;Fault-Tolerant Distributed Computing;3;Dubai;2020
+1524;Three-Dimensional Imaging, Interaction, and Measurement;5;Dubai;2027
+1526;Web Application Security;1;Paris;2012
+1527;TPDL Workshops;4;London;2023
+1531;Dance Notations and Robot Motion;5;Paris;2019
+1532;TPDL Workshops;5;Moscow;2026
+1533;Language Engineering Conference;5;Paris;2015
+1535;Information Visualization;5;Paris;2020
+1537;Ershov Informatics Conference;4;Tokyo;2019
+1540;ACM National Conference;3;New York;2018
+1541;Discrete Mathematics in the Schools;5;Los Angeles;2024
+1542;Information Visualization;3;Dubai;2016
+1543;Ershov Informatics Conference;2;Chicago;2014
+1544;Dance Notations and Robot Motion;5;Paris;2019
+1547;Plan, Activity, and Intent Recognition;4;Paris;2022
+1549;Ershov Informatics Conference;5;New York;2021
+1554;Mathematical Methods Of Analysis Of Biopolymer Sequences;2;Dubai;2011
+1556;Plan, Activity, and Intent Recognition;2;London;2017
+1557;ACM National Conference;5;Paris;2026
+1558;ACM National Conference;5;Paris;2026
+1559;Webmedia;3;Los Angeles;2018
+1560;Webmedia;5;Chicago;2025
+1561;Plan, Activity, and Intent Recognition;4;Paris;2022
+1562;TPDL Workshops;5;Moscow;2026
+1568;Computational Methods for SNPs and Haplotype Inference;3;Barcelona;2020
+1572;Ershov Informatics Conference;2;Chicago;2014
+1573;Complexity of Constraints;4;Singapore;2025
+1574;Theories of Programming and Formal Methods;3;Paris;2010
+1582;Ershov Informatics Conference;4;Tokyo;2019
+1584;Ershov Informatics Conference;2;Chicago;2014
+1587;Computational Methods for SNPs and Haplotype Inference;2;Moscow;2020
+1589;Complexity of Constraints;2;Chicago;2017
+1590;Information Visualization;5;Paris;2020
+1591;Discrete Mathematics in the Schools;1;Paris;2013
+1592;Coding Theory and Applications;2;Los Angeles;2018
+1593;Complexity of Constraints;4;Singapore;2025
+1594;Webmedia;4;Barcelona;2023
+1595;Complexity of Constraints;2;Chicago;2017
+1596;Coding Theory and Applications;5;Los Angeles;2028
+1601;Language Engineering Conference;4;New York;2015
+1603;Plan, Activity, and Intent Recognition;2;London;2017
+1604;Communication in Multiagent Systems;1;New York;2015
+1605;Coding Theory and Applications;2;Los Angeles;2018
+1608;Theories of Programming and Formal Methods;2;Moscow;2010
+1610;Computational Methods for SNPs and Haplotype Inference;4;London;2022
+1612;ACM National Conference;1;Moscow;2015
+1613;Web Application Security;1;Paris;2012
+1615;Webmedia;4;Barcelona;2023
+1618;Web Application Security;3;Chicago;2016
+1619;Theories of Programming and Formal Methods;5;Dubai;2016
+1626;Web Application Security;3;Chicago;2016
+1628;Coding Theory and Applications;1;Paris;2015
+1629;Semantic Grid;5;Singapore;2020
+1631;Webmedia;3;Los Angeles;2018
+1636;Communication in Multiagent Systems;1;New York;2015
+1637;Webmedia;1;Paris;2015
+1639;Three-Dimensional Imaging, Interaction, and Measurement;2;Dubai;2018
+1641;Complexity of Constraints;2;Chicago;2017
+1642;TPDL Workshops;2;Dubai;2018
+1643;Three-Dimensional Imaging, Interaction, and Measurement;1;Barcelona;2015
+1647;Language Engineering Conference;5;Paris;2015
+1650;Web Application Security;3;Chicago;2016
+1652;Coding Theory and Applications;3;Barcelona;2022
+1657;Coding Theory and Applications;3;Barcelona;2022
+1658;Coding Theory and Applications;2;Los Angeles;2018
+1659;Communication in Multiagent Systems;3;Chicago;2022
+1671;Language Engineering Conference;4;New York;2015
+1673;Theories of Programming and Formal Methods;3;Paris;2010
+1674;Web Application Security;1;Paris;2012
+1675;Caring Machines;1;Moscow;2015
+1677;Theories of Programming and Formal Methods;4;Paris;2013
+1678;Mathematical Methods Of Analysis Of Biopolymer Sequences;2;Dubai;2011
+1679;Three-Dimensional Imaging, Interaction, and Measurement;4;Chicago;2022
+1680;Webmedia;3;Los Angeles;2018
+1683;ACM National Conference;5;Paris;2026
+1686;Information Visualization;3;Dubai;2016
+1687;Discrete Mathematics in the Schools;4;Tokyo;2022
+1696;Discrete Mathematics in the Schools;5;Los Angeles;2024
+1697;Webmedia;1;Paris;2015
+1701;Theories of Programming and Formal Methods;3;Paris;2010
+1702;Dance Notations and Robot Motion;3;Moscow;2015
+1703;Discrete Mathematics in the Schools;3;Moscow;2022
+1708;Mathematical Methods Of Analysis Of Biopolymer Sequences;1;Barcelona;2011
+1710;Theories of Programming and Formal Methods;4;Paris;2013
+1711;Ershov Informatics Conference;5;New York;2021
+1713;Web Application Security;2;Barcelona;2013
+1714;ACM National Conference;5;Paris;2026
+1717;Three-Dimensional Imaging, Interaction, and Measurement;1;Barcelona;2015
+1718;TPDL Workshops;4;London;2023
+1720;Plan, Activity, and Intent Recognition;3;Singapore;2022
+1721;Web Application Security;2;Barcelona;2013
+1724;Information Visualization;3;Dubai;2016
+1727;Computational Methods for SNPs and Haplotype Inference;2;Moscow;2020
+1731;Information Visualization;1;Tokyo;2011
+1733;Discrete Mathematics in the Schools;1;Paris;2013
+1736;Coding Theory and Applications;3;Barcelona;2022
+1739;Computational Methods for SNPs and Haplotype Inference;4;London;2022
+1740;Information Visualization;3;Dubai;2016
+1743;Discrete Mathematics in the Schools;1;Paris;2013
+1744;Three-Dimensional Imaging, Interaction, and Measurement;1;Barcelona;2015
+1745;Ershov Informatics Conference;4;Tokyo;2019
+1747;Discrete Mathematics in the Schools;3;Moscow;2022
+1748;Computational Methods for SNPs and Haplotype Inference;1;Chicago;2015
+1750;Discrete Mathematics in the Schools;4;Tokyo;2022
+1753;Mathematical Methods Of Analysis Of Biopolymer Sequences;2;Dubai;2011
+1755;Plan, Activity, and Intent Recognition;4;Paris;2022
+1756;Coding Theory and Applications;1;Paris;2015
+1757;Three-Dimensional Imaging, Interaction, and Measurement;2;Dubai;2018
+1759;Fault-Tolerant Distributed Computing;2;Tokyo;2017
+1760;Three-Dimensional Imaging, Interaction, and Measurement;1;Barcelona;2015
+1761;Information Visualization;4;Los Angeles;2018
+1764;Three-Dimensional Imaging, Interaction, and Measurement;2;Dubai;2018
+1768;Caring Machines;3;Chicago;2016
+1771;Webmedia;1;Paris;2015
+1772;Complexity of Constraints;4;Singapore;2025
+1776;Coding Theory and Applications;3;Barcelona;2022
+1777;Communication in Multiagent Systems;3;Chicago;2022
+1782;Theories of Programming and Formal Methods;3;Paris;2010
+1783;Webmedia;1;Paris;2015
+1788;Theories of Programming and Formal Methods;2;Moscow;2010
+1790;Coding Theory and Applications;2;Los Angeles;2018
+1794;Theories of Programming and Formal Methods;1;Barcelona;2010
+1795;Dance Notations and Robot Motion;1;Chicago;2010
+1800;Theories of Programming and Formal Methods;1;Barcelona;2010
+1801;Theories of Programming and Formal Methods;2;Moscow;2010
+1804;Web Application Security;1;Paris;2012
+1805;Complexity of Constraints;4;Singapore;2025
+1807;Semantic Grid;1;Singapore;2015
+1808;Ershov Informatics Conference;1;Paris;2010
+1809;Ershov Informatics Conference;4;Tokyo;2019
+1813;TPDL Workshops;2;Dubai;2018
+1816;Plan, Activity, and Intent Recognition;3;Singapore;2022
+1818;Mathematical Methods Of Analysis Of Biopolymer Sequences;5;Paris;2019
+1819;Communication in Multiagent Systems;5;Dubai;2026
+1820;Webmedia;5;Chicago;2025
+1821;Web Application Security;5;London;2026
+1827;Ershov Informatics Conference;1;Paris;2010
+1830;Communication in Multiagent Systems;1;New York;2015
+1834;Semantic Grid;4;New York;2019
+1837;Web Application Security;1;Paris;2012
+1841;Information Visualization;1;Tokyo;2011
+1843;Three-Dimensional Imaging, Interaction, and Measurement;2;Dubai;2018
+1846;ACM National Conference;4;Moscow;2021
+1847;TPDL Workshops;3;Dubai;2023
+1848;Computational Methods for SNPs and Haplotype Inference;1;Chicago;2015
+1849;Caring Machines;1;Moscow;2015
+1850;Plan, Activity, and Intent Recognition;4;Paris;2022
+1851;Dance Notations and Robot Motion;4;Barcelona;2018
+1854;Discrete Mathematics in the Schools;4;Tokyo;2022
+1855;Webmedia;1;Paris;2015
+1856;Language Engineering Conference;1;Barcelona;2010
+1859;Caring Machines;4;London;2021
+1861;Three-Dimensional Imaging, Interaction, and Measurement;3;London;2022
+1862;Plan, Activity, and Intent Recognition;5;Chicago;2022
+1863;TPDL Workshops;5;Moscow;2026
+1864;Caring Machines;5;Chicago;2026
+1866;TPDL Workshops;5;Moscow;2026
+1867;Information Visualization;1;Tokyo;2011
+1868;Ershov Informatics Conference;1;Paris;2010
+1870;Webmedia;3;Los Angeles;2018
+1871;Ershov Informatics Conference;5;New York;2021
+1875;Caring Machines;3;Chicago;2016
+1876;Caring Machines;2;Moscow;2016
+1878;Semantic Grid;1;Singapore;2015
+1879;Plan, Activity, and Intent Recognition;1;Moscow;2012
+1880;Complexity of Constraints;1;Chicago;2012
+1881;Theories of Programming and Formal Methods;4;Paris;2013
+1885;Webmedia;4;Barcelona;2023
+1886;Ershov Informatics Conference;2;Chicago;2014
+1887;Dance Notations and Robot Motion;4;Barcelona;2018
+1889;Three-Dimensional Imaging, Interaction, and Measurement;1;Barcelona;2015
+1890;Theories of Programming and Formal Methods;4;Paris;2013
+1891;Communication in Multiagent Systems;2;Barcelona;2020
+1893;Theories of Programming and Formal Methods;3;Paris;2010
+1894;Plan, Activity, and Intent Recognition;3;Singapore;2022
+1895;Coding Theory and Applications;3;Barcelona;2022
+1896;Dance Notations and Robot Motion;2;Singapore;2012
+1897;Caring Machines;5;Chicago;2026
+1898;Language Engineering Conference;2;Paris;2011
+1899;Information Visualization;5;Paris;2020
+1900;Dance Notations and Robot Motion;2;Singapore;2012
+1902;Communication in Multiagent Systems;3;Chicago;2022
+1903;ACM National Conference;4;Moscow;2021
+1904;Communication in Multiagent Systems;5;Dubai;2026
+1905;Web Application Security;3;Chicago;2016
+1906;Caring Machines;1;Moscow;2015
+1907;Information Visualization;3;Dubai;2016
+1909;ACM National Conference;1;Moscow;2015
+1910;Coding Theory and Applications;2;Los Angeles;2018
+1913;Mathematical Methods Of Analysis Of Biopolymer Sequences;2;Dubai;2011
+1914;Language Engineering Conference;5;Paris;2015
+1915;Caring Machines;5;Chicago;2026
+1916;Plan, Activity, and Intent Recognition;4;Paris;2022
+1920;Computational Methods for SNPs and Haplotype Inference;2;Moscow;2020
+1921;ACM National Conference;4;Moscow;2021
+1926;TPDL Workshops;1;Tokyo;2014
+1927;Dance Notations and Robot Motion;4;Barcelona;2018
+1928;Computational Methods for SNPs and Haplotype Inference;5;Los Angeles;2024
+1929;Three-Dimensional Imaging, Interaction, and Measurement;2;Dubai;2018
+1930;Discrete Mathematics in the Schools;5;Los Angeles;2024
+1931;Complexity of Constraints;3;Dubai;2021
+1932;Web Application Security;5;London;2026
+1933;Discrete Mathematics in the Schools;2;Singapore;2017
+1939;Communication in Multiagent Systems;2;Barcelona;2020
+1942;Theories of Programming and Formal Methods;2;Moscow;2010
+1943;Discrete Mathematics in the Schools;5;Los Angeles;2024
+1946;Plan, Activity, and Intent Recognition;3;Singapore;2022
+1947;Web Application Security;2;Barcelona;2013
+1949;Plan, Activity, and Intent Recognition;3;Singapore;2022
+1958;Complexity of Constraints;5;Chicago;2027
+1964;TPDL Workshops;4;London;2023
+1968;Webmedia;4;Barcelona;2023
+1970;Ershov Informatics Conference;1;Paris;2010
+1972;Complexity of Constraints;2;Chicago;2017
+1974;Language Engineering Conference;3;Los Angeles;2013
+1975;TPDL Workshops;2;Dubai;2018
+1976;Theories of Programming and Formal Methods;4;Paris;2013
+1977;Mathematical Methods Of Analysis Of Biopolymer Sequences;4;Singapore;2015
+1979;Caring Machines;1;Moscow;2015
+1981;Semantic Grid;2;Barcelona;2017
+1984;Caring Machines;1;Moscow;2015
+1985;Ershov Informatics Conference;2;Chicago;2014
+1988;ACM National Conference;2;Tokyo;2017
+1995;TPDL Workshops;1;Tokyo;2014
+1998;Caring Machines;5;Chicago;2026
+1999;Semantic Grid;2;Barcelona;2017
+2001;Web Application Security;1;Paris;2012
+2010;Plan, Activity, and Intent Recognition;2;London;2017
+2011;Theories of Programming and Formal Methods;5;Dubai;2016
+2017;Communication in Multiagent Systems;4;Chicago;2026
+2019;Web Application Security;3;Chicago;2016
+2021;Web Application Security;3;Chicago;2016
+2022;Plan, Activity, and Intent Recognition;5;Chicago;2022
+2023;Semantic Grid;5;Singapore;2020
+2024;Information Visualization;4;Los Angeles;2018
+2025;Caring Machines;3;Chicago;2016
+2026;Three-Dimensional Imaging, Interaction, and Measurement;2;Dubai;2018
+2027;Theories of Programming and Formal Methods;4;Paris;2013
+2031;Web Application Security;5;London;2026
+2032;Communication in Multiagent Systems;2;Barcelona;2020
+2038;Mathematical Methods Of Analysis Of Biopolymer Sequences;1;Barcelona;2011
+2039;Computational Methods for SNPs and Haplotype Inference;3;Barcelona;2020
+2042;Plan, Activity, and Intent Recognition;2;London;2017
+2044;Language Engineering Conference;2;Paris;2011
+2046;Dance Notations and Robot Motion;2;Singapore;2012
+2047;Semantic Grid;4;New York;2019
+2048;Language Engineering Conference;4;New York;2015
+2049;Web Application Security;4;London;2021
+2050;Caring Machines;2;Moscow;2016
+2055;Mathematical Methods Of Analysis Of Biopolymer Sequences;2;Dubai;2011
+2056;Fault-Tolerant Distributed Computing;4;Barcelona;2023
+2059;Dance Notations and Robot Motion;1;Chicago;2010
+2063;Caring Machines;1;Moscow;2015
+2064;Dance Notations and Robot Motion;1;Chicago;2010
+2065;Information Visualization;1;Tokyo;2011
+2066;Discrete Mathematics in the Schools;5;Los Angeles;2024
+2069;Coding Theory and Applications;4;Barcelona;2023
+2070;Complexity of Constraints;3;Dubai;2021
+2071;Web Application Security;5;London;2026
+2074;Communication in Multiagent Systems;5;Dubai;2026
+2075;Fault-Tolerant Distributed Computing;1;Chicago;2015
+2078;ACM National Conference;4;Moscow;2021
+2080;Ershov Informatics Conference;3;Dubai;2018
+2081;Computational Methods for SNPs and Haplotype Inference;3;Barcelona;2020
+2083;Web Application Security;5;London;2026
+2091;Ershov Informatics Conference;2;Chicago;2014
+2092;Computational Methods for SNPs and Haplotype Inference;2;Moscow;2020
+2094;Information Visualization;4;Los Angeles;2018
+2096;Communication in Multiagent Systems;1;New York;2015
+2097;Communication in Multiagent Systems;4;Chicago;2026
+2100;Language Engineering Conference;4;New York;2015
+2102;Computational Methods for SNPs and Haplotype Inference;4;London;2022
+2103;TPDL Workshops;2;Dubai;2018
+2105;ACM National Conference;2;Tokyo;2017
+2107;Mathematical Methods Of Analysis Of Biopolymer Sequences;4;Singapore;2015
+2108;Ershov Informatics Conference;2;Chicago;2014
+2109;Language Engineering Conference;1;Barcelona;2010
+2110;TPDL Workshops;2;Dubai;2018
+2112;Communication in Multiagent Systems;2;Barcelona;2020
+2115;Webmedia;1;Paris;2015
+2116;Caring Machines;2;Moscow;2016
+2117;Fault-Tolerant Distributed Computing;3;Dubai;2020
+2122;Theories of Programming and Formal Methods;4;Paris;2013
+2123;Caring Machines;3;Chicago;2016
+2124;Caring Machines;3;Chicago;2016
+2126;Mathematical Methods Of Analysis Of Biopolymer Sequences;1;Barcelona;2011
+2127;Three-Dimensional Imaging, Interaction, and Measurement;1;Barcelona;2015
+2128;Theories of Programming and Formal Methods;5;Dubai;2016
+2132;Fault-Tolerant Distributed Computing;4;Barcelona;2023
+2133;Discrete Mathematics in the Schools;5;Los Angeles;2024
+2135;Coding Theory and Applications;2;Los Angeles;2018
+2138;Three-Dimensional Imaging, Interaction, and Measurement;3;London;2022
+2139;Web Application Security;2;Barcelona;2013
+2141;Theories of Programming and Formal Methods;4;Paris;2013
+2145;Plan, Activity, and Intent Recognition;2;London;2017
+2147;Semantic Grid;4;New York;2019
+2149;Semantic Grid;2;Barcelona;2017
+2150;Coding Theory and Applications;1;Paris;2015
+2153;Complexity of Constraints;3;Dubai;2021
+2154;Caring Machines;2;Moscow;2016
+2155;Complexity of Constraints;3;Dubai;2021
+2157;Fault-Tolerant Distributed Computing;4;Barcelona;2023
+2160;Semantic Grid;2;Barcelona;2017
+2163;Complexity of Constraints;3;Dubai;2021
+2164;Three-Dimensional Imaging, Interaction, and Measurement;1;Barcelona;2015
+2166;Dance Notations and Robot Motion;4;Barcelona;2018
+2167;Plan, Activity, and Intent Recognition;5;Chicago;2022
+2168;Semantic Grid;3;Barcelona;2018
+2170;Coding Theory and Applications;1;Paris;2015
+2171;TPDL Workshops;5;Moscow;2026
+2172;Complexity of Constraints;1;Chicago;2012
+2173;Information Visualization;5;Paris;2020
+2176;ACM National Conference;2;Tokyo;2017
+2181;ACM National Conference;5;Paris;2026
+2182;Fault-Tolerant Distributed Computing;4;Barcelona;2023
+2183;Three-Dimensional Imaging, Interaction, and Measurement;2;Dubai;2018
+2184;Semantic Grid;2;Barcelona;2017
+2185;ACM National Conference;2;Tokyo;2017
+2186;Communication in Multiagent Systems;5;Dubai;2026
+2187;ACM National Conference;2;Tokyo;2017
+2188;Semantic Grid;5;Singapore;2020
+2191;Mathematical Methods Of Analysis Of Biopolymer Sequences;3;Singapore;2012
